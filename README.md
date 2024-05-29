@@ -1,7 +1,7 @@
 # iphone-uml-dio
 Desafio de código Bootcamp Desenvolvimento Java com IA
 
-### Exemplo de Diagrama UML (Mermaid)
+### iPhone - Diagrama UML (Mermaid)
 ```mermaid
 classDiagram
     class ReprodutorMusical {
